@@ -35,9 +35,9 @@ El primer volumen recorre lógica, computación, neuronas artificiales, Dartmout
 
 ### Descargas
 
-- [EPUB para lectura](releases/vol-01/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia.epub)
-- [EPUB para escucha / TTS](releases/vol-01/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia_ESCUCHA.epub)
-- [PDF](releases/vol-01/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia.pdf)
+- [EPUB para lectura](https://github.com/migarciab/ARTIFICIALMENTE/releases/download/vol1-v1.0/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia.epub)
+- [EPUB para escucha / TTS](https://github.com/migarciab/ARTIFICIALMENTE/releases/download/vol1-v1.0/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia_ESCUCHA.epub)
+- [PDF](https://github.com/migarciab/ARTIFICIALMENTE/releases/download/vol1-v1.0/ARTIFICIALMENTE_Vol_I_La_invencion_de_la_inteligencia.pdf)
 
 ---
 
